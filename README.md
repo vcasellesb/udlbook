@@ -1,0 +1,3 @@
+# Understanding Deep Learning Notebooks
+
+This is a CLI fork of Simon J Prince's udlbook support material notebooks. I did a sparse checkout of his repo (see `https://stackoverflow.com/questions/600079/how-do-i-clone-a-subdirectory-only-of-a-git-repository`, `https://www.howtogeek.com/devops/how-to-properly-fork-a-github-repository/`), but it means it's only a sparse checkout. No such thing as a sparse push exists, or at least I haven't found it. Anyhow, you'll see my completion of the notebooks in the `Notebooks/` dir.
